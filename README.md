@@ -69,11 +69,11 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/devansh-jadhav-73018a216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.linkedin.com/in/devansh-jadhav-73018a216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/jadhavdevansh22?igsh=MXBiMTE3aW9kcmtsYg=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:djahdav22@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:djahdav22@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-djahdav22@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
